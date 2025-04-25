@@ -10,7 +10,7 @@ MediaMate est un logiciel open source développé par [Votre Nom]. Il est distri
 
 MIT License
 
-Copyright (c) 2025 [Votre Nom]
+Copyright (c) 2025 M4t-SVG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
